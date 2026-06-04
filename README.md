@@ -1,3 +1,3 @@
 ﻿# to_trade_or_not_to_trade
 
-Master Thesis on Intraday VAR & ES backtesting for Gold Copper & Silver Commodities
+Preliminary (60 days) analysis for Master Thesis on Intraday VAR & ES backtesting for Gold Copper & Silver Commodities
